@@ -1,4 +1,4 @@
-# Chukwunonso Offorka
+# NonsoDev
 
 I help companies automate real work with AI. Each demo below is a small page for one job, with a rule the system is not allowed to break.
 
