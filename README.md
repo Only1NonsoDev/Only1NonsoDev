@@ -1,16 +1,18 @@
-## Hi there 👋
+# Chukwunonso Offorka
 
-<!--
-**Only1NonsoDev/Only1NonsoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help companies automate real work with AI. Each demo below is a small page for one job, with a rule the system is not allowed to break.
 
-Here are some ideas to get you started:
+## Client Report Narrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Paste one month of numbers. The page writes what changed, why it matters, and what to do next. Every number comes from the sheet. A blank cell is called missing.
+
+- Try it: https://client-report-narrator-only1nonsodev.vercel.app
+- Code: https://github.com/Only1NonsoDev/client-report-narrator
+- Write-up: https://medium.com/@chukwunonso.freetal/i-built-a-page-that-writes-the-monthly-client-report-and-it-is-not-allowed-to-invent-a-number-123218f1e770
+
+## Content Repurposing Agent
+
+Paste one article. The page drafts a LinkedIn post, an X thread, an Instagram carousel, an email, and a short video script. It does not post them.
+
+- Try it: https://content-repurposing-agent-only1nonsodev.vercel.app
+- Code: https://github.com/Only1NonsoDev/content-repurposing-agent
